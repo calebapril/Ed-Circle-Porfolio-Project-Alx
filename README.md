@@ -8,8 +8,8 @@
 <br />
 
 ## Technologies used
-Html
-CSS
+Html <br />
+CSS <br />
 JavaScript
 
 <br />
