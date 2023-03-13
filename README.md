@@ -6,3 +6,10 @@
 </div>
 
 <br />
+
+## Technologies used
+Html
+CSS
+JavaScript
+
+<br />
